@@ -91,7 +91,7 @@ Contributions are welcome! Here's how you can help:
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/trippy-wave-visualizations.git
+   git clone https://github.com/lalomorales22/trippy-wave-visualizations.git
    ```
 
 3. **Create a New Branch**:
@@ -134,4 +134,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-For questions or suggestions, feel free to open an issue or contact me at your.email@example.com.
+For questions or suggestions, feel free to open an issue or contact me at laloadrianmorales@gmail.com.
