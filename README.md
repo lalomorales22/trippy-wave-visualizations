@@ -1,7 +1,4 @@
 # Trippy Wave Visualizations
-![Screenshot 2024-10-02 at 12 43 14 AM](https://github.com/user-attachments/assets/0a54e254-bb8b-4a6b-b0b7-9ed6d67be661)
-
-# Trippy Wave Visualizations
 
 ![Screenshot 2024-10-02 at 12 43 14 AM](https://github.com/user-attachments/assets/0a54e254-bb8b-4a6b-b0b7-9ed6d67be661)
 
